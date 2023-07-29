@@ -14,5 +14,4 @@ This adds metadata to the song which makes it easier to
 2. Other file formats. (more image formats are done but song formats arent)
 # Screenshots 
 ![image](https://github.com/n1d3v/song-metadata-gen/assets/135556230/1e0f0e9f-a426-416e-b0a0-a0c42cce8d6e) 
-![Screenshot 2023-07-29 at 23 45 59](https://github.com/n1d3v/song-metadata-gen/assets/135556230/22ba513d-2569-4773-879c-dd8d802e24cb)
-
+![Screenshot 2023-07-29 at 23 47 26](https://github.com/n1d3v/song-metadata-gen/assets/135556230/71836e92-8cf1-4e4a-9730-27e10bd8a0be)
