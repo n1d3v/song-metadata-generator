@@ -10,5 +10,5 @@ This adds metadata to the song which makes it easier to
 2. Know what music you're listening too.
 3. Make your music look nice.
 # Things to work on
-1. GUI
-2. Other file formats.
+1. GUI (done)
+2. Other file formats. (more image formats are done but song formats arent)
