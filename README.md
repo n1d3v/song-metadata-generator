@@ -1,7 +1,7 @@
 # song-metadata-generator
 A Python Script that uses mutagen to add metadata to a song file.
 
-This was tested on macOS with MP3 files and works fine.
+This was tested on both Windows and macOS with MP3 files and works fine.
 # Want to build it you're self?
 No problem! Go into the latest release and download S-M-G.py
 
