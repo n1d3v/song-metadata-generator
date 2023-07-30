@@ -2,6 +2,23 @@
 A Python Script that uses mutagen to add metadata to a song file.
 
 This was tested on macOS with MP3 files and works fine.
+# Want to build it you're self?
+No problem! Go into the latest release and download S-M-G.py
+
+Once you are done install Python and do this
+
+Windows
+```python
+py -m pip install mutagen pyqt5 pillow
+```
+If Python is in Windows $PATH just do
+```python
+pip install mutagen pyqt5 pillow
+```
+POSIX
+```python
+pip3 install mutagen pyqt5 pillow
+```
 # What is the purpose?
 Because some songs / MP3s don't have metadata which could be frustrating at times.
 
