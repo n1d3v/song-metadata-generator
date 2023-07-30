@@ -19,6 +19,7 @@ POSIX systems
 ```python
 pip3 install mutagen pyqt5 pillow
 ```
+And then run the Python script.
 # What is the purpose?
 Because some songs / MP3s don't have metadata which could be frustrating at times.
 
