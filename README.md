@@ -15,7 +15,7 @@ If Python is in Windows $PATH just do
 ```python
 pip install mutagen pyqt5 pillow
 ```
-POSIX
+POSIX systems
 ```python
 pip3 install mutagen pyqt5 pillow
 ```
